@@ -1,0 +1,9 @@
+Métrica,N,Média,Margem IC,IC Inferior,IC Superior
+Latência – Cenário A (ms),30,2.422433,0.006179,2.416254,2.428613
+Latência – Cenário B (ms),30,12.149367,0.281973,11.867394,12.431339
+Vazão TCP – Cenário A (Mbps),30,9.515667,0.004124,9.511543,9.51979
+Vazão TCP – Cenário B (Mbps),14,6.132857,1.86947,4.263387,8.002327
+Perda UDP – Cenário A (%),30,0.0,0.0,,
+Perda UDP – Cenário B (%),23,2.630435,2.576297,0.054138,5.206732
+Jitter UDP – Cenário A (ms),30,0.448567,0.238379,0.210188,0.686945
+Jitter UDP – Cenário B (ms),23,0.274522,0.210441,0.064081,0.484962
